@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    font-family: Verdana, sans-serif ;
+}
+header{
+    font-family: 'Courier New';
+    font-weight: 3em;
+    color: #249FF0;
+}
+header p{
+    color: #B50DDB;
+    margin: 1em;
+}
+.igm1{
+    color: #56C0DB;
+}
+.img2{
+    color: #DB9555;
+}
+.igm3{
+    color: #A0DB4B;
+}
+footer{
+    color: #B50DDB;
+}
+#autor{
+    letter-spacing: 0,1em;
+}
