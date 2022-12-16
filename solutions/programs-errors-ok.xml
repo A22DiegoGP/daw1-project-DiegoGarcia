@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<programs>
+	<program name="firefox" licence="GPL" /><!-- non é posible poñer 2 veces o mesmo atributo na mesma etiqueta -->
+	<program name="LibreOffice"></program><!-- non se pode poñer atributos no peche da etiqueta -->
+	<program name="Inkscape" licence= "GPL"/> <!-- o contido do atributo debe ir entre "" -->
+	<program name="Chrome"></program> <!-- o nome da etiqueta ten que ser o mesmo na declaración e no peche da mesma -->
+	<program name ="Edge"/><!-- tense que declarar o atributo co tipo = a o nome ou contido do atributo entre "" -->
+	<producers> <!-- as etiquetas deben estar contidas todas en unha etiqueta primaria -->
+		<producer>Microsoft</producer> <!-- hai que pechar as etiquetas -->
+		</producers>
+</programs>			

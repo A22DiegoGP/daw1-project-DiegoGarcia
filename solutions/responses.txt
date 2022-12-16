@@ -1,0 +1,3 @@
+json= 1.202 bytes
+xml= 1.225 bytes
+percentege saved using json= 1,88% 
